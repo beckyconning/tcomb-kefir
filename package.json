@@ -1,0 +1,27 @@
+{
+  "name": "tcomb-kefir",
+  "version": "0.0.1",
+  "description": "Tcomb types for Kefir observables",
+  "main": "./src/tcomb-kefir.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "http://www.github.com/becky-conning/tcomb-kefir"
+  },
+  "keywords": [
+    "kefir",
+    "tcomb",
+    "types",
+    "safety",
+    "runtime",
+    "safe"
+  ],
+  "author": "Software Co-operative Ltd",
+  "license": "MIT",
+  "dependencies": {
+    "kefir": "^1.1.0",
+    "tcomb": "^1.0.0"
+  }
+}
